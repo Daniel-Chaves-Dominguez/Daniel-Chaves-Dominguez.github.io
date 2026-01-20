@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>No podrás dormir: El aterrador ascenso de los 4 asesinos más buscados de la plataforma.</title>
+        <link>https://www.netflix.com/es/</link>
+        <description>Netflix revive las historias de los cuatro asesinos más inquietantes de su catálogo. Un análisis de sus crímenes, el éxito de sus series y por qué no podemos dejar de verlas.</description>
+        <language>es</language>
+        
+        <item>
+            <title>Monstruo: La historia de Jeffrey Dahmer</title>
+            <guid>https://www.netflix.com/es/Monstruo-la-historia-de-Jeffrey-Dahmer</guid>
+            <description>Una mirada cruda y escalofriante a los crímenes de Jeffrey Dahmer, centrada en las vidas que destruyó y en la incompetencia institucional que le permitió permanecer en libertad durante años.</description>
+        </item>
+
+        <item>
+            <title>Monstruo: La historia de Ed Gein</title>
+            <guid>https://www.netflix.com/es/Monstruo-La-historia-de-Ed-Gein</guid>
+            <description>Un viaje a la mente de un hombre roto por el fanatismo materno. Ed Gein no solo buscaba víctimas, buscaba piezas para reconstruir su pasado, desenterrando tumbas para no sentirse solo.</description>
+        </item>
+
+        <item>
+            <title>Tacos de lentejas</title>
+            <guid>https://www.netflix.com/es/Monstruos-La-historia-de-Lyle-Y-Erik-Menendez</guid>
+            <description>Tacos rellenos de lentejas y verduras frescas.</description>
+        </item>
+
+        <item>
+            <title>Ensalada de garbanzos</title>
+            <guid>https://www.netflix.com/es/Conversaciones-con-asesinos-las-cintas-de-John-Wayne-Gacy</guid>
+            <description>Una ensalada de garbanzos, tomate, pepino y un toque de limón.</description>
+        </item>
+    </channel>
+</rss>
