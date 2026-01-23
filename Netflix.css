@@ -56,12 +56,12 @@ a {
     object-fit: cover;
     filter: grayscale(100%); 
     transition: 0.3s;
-
 }
 
 .tarjeta img:hover {
     filter: grayscale(0%); 
-    border: 2px solid red;
+    outline: 2px solid red;
+    transform: scale(1.05) translateY(-2px);
 }
 
 .tarjeta h3 {
