@@ -5,7 +5,7 @@ This project is an informative web platform designed with a horror aesthetic, de
 
 The platform features a content syndication channel (RSS) that summarizes their stories, provides official links, and details the impact of their cases on popular culture and the justice system.
 
-<img width="1888" height="916" alt="image" src="https://github.com/user-attachments/assets/67fe0356-70b4-4c52-b048-d30ad2b3844b" />
+<img src="https://res.cloudinary.com/duzljw2pp/image/upload/v1769765430/Captura_de_pantalla_2026-01-30_095750_rmrjzo.png" class="foto-página-web">
 
 
 ## 👥 Authors
@@ -30,7 +30,6 @@ To properly explore the platform, follow these steps:
 ## ✅ RSS and XML Validations 
 We have validated the RSS and XML file to ensure it complies with the standard format and that all item information is accessible to news readers.
 
-<img width="1900" height="800" alt="Captura de pantalla 2026-01-21 140636" src="https://github.com/user-attachments/assets/7062ec01-114a-4c4c-8054-fd9e6e28da44" />
+<img src="https://res.cloudinary.com/duzljw2pp/image/upload/v1769765393/Captura_de_pantalla_2026-01-21_140636_roacme.png" class="foto-validación-RSS">
 
-<img width="1887" height="911" alt="Captura de pantalla 2026-01-21 140732" src="https://github.com/user-attachments/assets/6a2dafbe-4126-4288-9bd8-8635463faf29" />
-
+<img src="https://res.cloudinary.com/duzljw2pp/image/upload/v1769765405/Captura_de_pantalla_2026-01-21_140732_s65utk.png" class="foto-validación-XML">
